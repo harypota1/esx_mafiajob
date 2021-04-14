@@ -1,5 +1,5 @@
-# Napisane przez harypota#3867
+# harypota#3867
 
-- Łatwa przejrzysta obsługa
-- Wszystko rozpisane
+- Easy to use
+- Newest esx
 ## Enjoy!
